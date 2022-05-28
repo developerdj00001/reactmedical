@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{reactmedical/node_modules}" />
+    <file url="PROJECT" libraries="{@types/google-ads-scripts, @types/google-adwords-scripts, @types/google-apps-script, @types/google-apps-script-oauth2, @types/google-closure-compiler, @types/google-fonts, @types/google.fonts, @types/material-design-lite, @types/node, @types/prop-types, reactmedical/node_modules}" />
     <includedPredefinedLibrary name="HTTP Response Handler" />
+    <includedPredefinedLibrary name="Nashorn" />
+    <includedPredefinedLibrary name="Node.js Core" />
   </component>
 </project>
